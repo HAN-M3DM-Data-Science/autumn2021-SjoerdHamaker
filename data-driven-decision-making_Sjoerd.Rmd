@@ -1,0 +1,30 @@
+---
+title: "Assigment - Data Driven Decision Making"
+author: "Sjoerd Hamaker"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+## Data driven decision making in business: case study examples
+
+
+<iframe width="560" height="315" src="https://youtu.be/PUpdEbD2BwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Why was data driven decision making (3DM) use
+ful in this business case?
+
+The business case is about Team Sky which is a cycling team which is now named as Ineos. The team was the first one into cycling who used data to perform at a optimal form during races. A cyclist is nowdays very trained and the marge of winning is getting closer. Team Sky therefore started to use data during big laps to increase the chance of capturing a victory. Team sky found out through data that when a costant pace was ridden during a climb of a mountain, a cyclist was at the top faster than when they set gears and then drop in pace again. Team Sky has also fully focused on the time trials for cyclists. By training in wind tunnels, the team was able to collect data on how the rider could adopt the best posture to minimize air resistance. The team has won a Grand Tour (Spain, Italy or France) almost every year since its inception in 2010. Only in 2010 and 2014 did the team fail to do this
+
+## How did the organization apply 3DM?
+
+In cycling the difference is often very small. For example, Chris Froome won the Tour de France in 2016 with a 4.25 lead over the number two during the Tour. This seems like a big hole but in reality this is only a very small difference. The cyclists were on the bike for nearly 90 hours during the 2016 tour, meaning Chris Froome has only won by a 0.07% lead. So if even an improvement of 0.01% could be made, this has a major impact on winning the next big round. In addition, by practicing an attitude in a wind tunnel, time can also be gained compared to the competition. Team Sky also used super light material so that the cyclist could use all the power to pedal as hard as possible. In addition, Team Sky was the first team to use an oval sprocket on that bike instead of the well-known round sprockets. The idea behind this is that the force when pedaling is not the same at every point. the oval gears fit in perfectly with this. 
+
+## What can the organization do with 3DM that they couldn’t do before?
+
+Team Sky can optimize the performance of its riders through 3DM. In this way, the bike can be precisely adjusted, by means of the previously collected data, in order to get the most out of the rider's performance. In addition, by analyzing the training data, it is possible to better focus on a cyclist's weaknesses in order to improve them.
+
+Also, by using 3DM, more can be learned about the effort of a cyclist and how much rest is needed to regain strength. This data that is collected can be used in possible research into other sports.

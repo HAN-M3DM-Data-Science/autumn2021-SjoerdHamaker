@@ -1,0 +1,62 @@
+---
+title: "Assigment - Data Driven Business"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+## Data driven business: case study examples
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sJkHjJyYUnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## What features define a data driven business?
+
+A data driven business collects and uses it's data to support decisions. A data driven business has a culture based around data. Five attributes can be named of a data-driven company:
+
+- Data is treated as a valuable asset, and real-time insights are provided from all business systems
+- Insights are available for decision making at every level within the organization
+- All critical functional areas of the organization are involved
+- Insights are surfaced at the right time, and in a single place to enable better decisions faster
+- Decisions are captured and used to learn from and to improve future insights
+
+## What are the important features of a data culture?
+
+A data culture is the collective behaviors and beliefs of people who value, practice, and encourage the use of data to improve decision-making. As a result, data is woven into the operations, mindset, and identity of an organization. A data culture equips everyone in the organization with the insights they need to be truly data-driven (Tableau, z.d.).
+
+Three important features of a data culture are the following (Tableau, z.d.):
+
+- Employees practice data-driven behaviors: They align data and analytics to business outcomes
+- Employees value strategies data use: They prioritize data in decision-making and business processes
+- Employees encourage sharing and community: They unite over a shared mission to lead with data
+
+In a data culture, employees at a company have an understanding of what data is and how it can be used. In a culture like this it is encouraged to have a fact-based way of working. This is achieved by advancing three things (Norris, 2018):
+
+- Encouragement to use data: make the value of using data clear and remove barriers to access
+- Engagement to experiment and use data: Assist people to bring data intro their day to day decision making, and get them to use not just local data but all pertinent data from other internal and external sources
+- Education in use of data: By assisting employees to use the tools at hand to access data, use tools to make data informative and how to interpret results. 
+
+## What are the transformation steps towards a mature data driven business?
+
+Traditionally, companies organized by being split per product. Data was also collected and saved in silos for each department.
+This structure does not work anymore, because customers interact with several different parts of the company. Customers have multiple products and have multiple interactions across different channels. The customer expects the company to know them well and to cater to their unique needs. The only way to do this, is for the company to connect their data.
+
+Roughly six steps can be defined towards becoming a data driven company:
+
+- Understand the business need:
+  Focus on one measurable business outcome at a time where an insights-driven approach can directly impact profit, cost, efficiency, or customer satisfaction
+- Align people, process, and technology: Share the vision with your team by helping employees understand the end goal of the insight's initiative. Identify and implement a straightforward process for each business objective
+-Know where your data lives: Identify the company's data sources and format type. Create procedures and documentation to ensure that employees know how to adjust and maintain data sources for optimal function. 
+- Connect, relate, and blend your data: New Data as a Service (DaaS) technologies allow an organization's various data sources to be left in place, easily connected, related and then blended in real-time to form intelligent relationships
+- Gain insights from your blended data: Go beyond the traditional performance and operational metrics of your business to understand the root cause of why things happen so that you can better predict future business outcomes or challenges before they occur.
+- Take effective action: Make business decision based on the extracted insights. Once decisions are made from the insights, actions and reminders can be automated to help your team implement changes.
+
+Mind that decisions based on data need to be thought through very well. If you make decision based on the wrong data, situations can arise in which employees can be negatively impacted, like what happened to Amazon delivery drivers in the following article (written in Dutch): https://fd.nl/bedrijfsleven/1415616/bij-amazon-zijn-algoritmen-belangrijker-dan-mensen-lnj1cameR9Sv 
+
+
+## Sources
+Norris, D. (2018, 7 maart). Data Culture. What is it and how do we enhance it? Geraadpleegd op 16 oktober 2021, van https://www.bloorresearch.com/2018/03/data-culture-enhance/
+
+Tableau. (z.d.). Data Culture. Geraadpleegd op 16 oktober 2021, van https://www.tableau.com/why-tableau/data-culture

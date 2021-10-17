@@ -1,0 +1,27 @@
+---
+title: "Assigment - Data Driven Decision Making"
+author: "Yunus Gunes"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+## Data driven decision making in business: case study examples
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=s6UcNGzE8sU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Why was data driven decision making (3DM) useful in this business case?
+
+In 2014 Matthew Benham bought FC Midtjylland, a mid-sized club in Denmark’s first league which was about to go bankrupt. After having bought FC Midtjylland and implementing his way of doing business they have won the Danish league three times and the Danish cup tournament once. If we compare the league table at the end of each year for the last ten years, we can see that Midtjylland’s performance has improved significantly. To roughly analyse their performance, we looked at the two most important factors of football, scoring goals and getting points. First, we calculated the goal difference and points per game. After this, we calculated the average of these variables before and after the arrival of new owner Matthew Benham. These are our findings. 
+Excel bestand Book 2*
+## How did the organization apply 3DM?
+
+Benham is not the usual football club owner. Instead of investing time and money in improving his football strategies and sending scouts out to find new players, he invests it in data analytics. The result of a football match is very dependent on luck and randomness rather than the actual skill of the players and the team. This is because in a regular match of football there are not being many goals scored. This causes a game to have a big amount of time to create lucky and random positions. Benham has created a way of data analytics that takes randomness and luck out of the equation. By doing so, he can make accurate decisions based on the outcome of his findings.
+
+## What can the organization do with 3DM that they couldn’t do before?
+
+Having access to this type of data allows FC Midtjylland to more accurately tell their own and their opponent's strengths and weaknesses. With this information they can calculate their chances of winning the game and make decisions based on the strenghts and weaknesses. If you know how big your chances are of winning the league, you can also calculate how to increase those odds and increase your chances to become a champion. 

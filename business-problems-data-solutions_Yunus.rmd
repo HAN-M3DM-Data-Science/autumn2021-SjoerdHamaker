@@ -1,0 +1,32 @@
+---
+title: "Assigment - Data Problems vs Data Solutions"
+author: "Yunus Gunes"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+## Uber Tech Day: Using Analytics to Stop Fraud by Understanding User Behaviors
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AjYZhnNCNew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## What was the business problem?
+
+The company Uber has to deal with fraudsters getting paid for trips that are made in an illegal manner. They do this in such a way that the regular customer pays for the ride, Uber loses the money for that ride and the fraudsters themselves actually getting paid for the ride. The way this works is, there are 4 parties involved. The first party is a customer who contacts a fraudster via another app. This customer pays the fraudster an amount that is smaller than the original ride price. The second party is the fraudster who orders a ride for the customer and pays for it with a stolen credit card. The third part is the person whose credit card got stolen. He contacts his bank and asks for a refund on the Uber fee since he never requested a ride. The last part is Uber, whose money gets taken from the bank for charging the credit card owner. To overcome this issue they create an algorithm that detects and analyses suspicious behaviour. 
+
+## How was it translated into a data mining problem?
+
+To create a solution to this problem Uber has to know how to tell a normal user's behaviour to that of a fraudster's. 
+
+In order to do this. Uber built algorithms to detect suspicious behaviour from mostly new accounts. In a geographic map they show the exact locations of where new accounts were created. It showed that a lot of these accounts were created off shore, somewhere in the water. There is a low chance of that many people actually creating an Uber account while being in or on water. 
+
+Another way to detect suspicious behaviour is look at the location and time a certain user has requested a ride. In the presentation there is an example shown of a user requesting a ride in New York and a small amount of time later in London and Manchester. It is almost impossible for someone to be in that many places in such a short period of time. After analysing that account, the algorithm detects that that same account uses the same credit card information as some other accounts. All these accounts have gibberish usernames and email addresses.
+
+Uber's  algorithms basically analyses certain accounts that show suspicious behaviour. Based on this analyses Uber can tell whether an account can be linked to fraud or just random behaviour. 
+
+## What is the realized business value?
+
+Preventing fraud is important. Uber simply delivers a service without getting paid for it. As I mentioned before, Uber loses money every time a fraudster pays for it with a stolen credit card. 

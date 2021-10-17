@@ -1,0 +1,54 @@
+---
+title: "Assigment - Data Driven Business"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+## Data driven business: case study examples
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=on_r-zYEeOo&t=315s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## What features define a data driven business?
+
+There are five obvious characteristics of a data-driven business. These five include:
+
+-Literacy: Data literacy means the ability to read, manage, interpret, and argue with data. Data literacy is a top priority with real data-driven business and they make sure to train their employees on it. 
+-Leadership: The right type of leadership is necessary to run a data-driven business. The right leader needs to have experience in both areas (business and data).
+-Democratization: Access to data is very important. Employees should have access to the data they need in order to keep the business running.
+-Automation: A true data-driven business should have automation intergrated to the data management systems where ever it is needed. The automation of data management workloads has many benefits to a business.
+-Culture: Data driven company culture is very important in creating a data driven business. Company culture influences everything from the effectiveness of a data strategy to data literacy levels. 
+
+## What are the important features of a data culture?
+
+Data culture is the best path to success when creating a data driven business. Data culture is the base of many data driven companies and should therefore have a priority in such companies. 
+
+Five elements that are crucial in a well established data culture.
+
+-Enable data accessibility: Data scientist and data analyst spend a lot of time making phone calls and filling out forms in order to get the right data they need. This takes time and effort for employees to work effectively and efficiently. 
+-Ensure top-down support: Data culture should start all the way from the top of the company and should make its way down to the rest of the employees. In this way, a company can make sure that all employees are sustained in the same culture.
+-Invest in data literacy: For most employees it is more important how to read and translate data so that it makes sense rather than knowing how to analyse or process data. 
+-Enable metadata management: Having a database table is not enough. It is more important for employees to understand what the outcomes mean and how they can be interpreted. It is important to make this information available for the employees and train them on understanding it. 
+-Do not sequester data scientist: data scientists are often put in one department. This should not be the case as they have little to no information about those departments and the other way around. This causes a project to have a lot of assumptions and does not lead to optimal results.
+
+## What are the transformation steps towards a mature data driven business?
+
+The road to becoming a data-driven business can be divided into three steps. By following these steps, any company should have a firm base to build on in their journey in becoming a data-driven business.  
+
+1.	Define the primary challenges your business faces
+A regular company has to deal with a lot of different challenges. This can be overwhelming. Instead of trying to solve every each problem one by one, the company should focus on finding the primary challenges. These are the most important challenges that can make it easier to solve other problems. 
+
+2.	Look for critical gaps in the existing data that you are collecting	
+Data by itself is meaningless. With the primary challenge in mind, the business should figure out what information they need to help solve this problem. Most of the time their existing data is not enough. The company should answer the following questions: What would you like hard data on? What decisions are based on assumptions? Is it easy for you to know who your most valuable customers are? Where do they come from? What about customer retention? What strategy employed is the most effective?
+
+3.	Select the right business intelligence role for you
+Now that the primary goal is clear and the company knows what information they need to achieve this goal, it is time to select the right Business Intelligence Tools. They should look at the pros and cons for each tool and select the right tool based on this. 
+
+
+## Sources
+Morrow, B. M. K. (2021, February 26). 5 Obvious Characteristics of a Data Driven Company. Hubworks. Retrieved October 16, 2021, from https://zipreporting.com/data-driven/data-driven-company.html
+
+Lights OnData. (2020, September 10). 5 Pieces Of Advice On How To Create A Data Driven Culture [Video]. YouTube. https://www.youtube.com/watch?v=PG9Pi7n_Z1c

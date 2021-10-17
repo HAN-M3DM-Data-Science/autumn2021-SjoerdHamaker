@@ -1,0 +1,26 @@
+---
+title: "Assigment - Data Problems vs Data Solutions"
+author: "Sjoerd Hamaker"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+## Big Data and analytics in action: Case study examples
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hYoRMqkN_TI&t=96s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## What was the business problem?
+The butcher sees competition increasing by establishing a new supermarket. He expects that many of his customers will switch to the supermarket because it can offer products at a much better price. The butcher does not know how to deal with the new competitor and is afraid
+
+## How was it translated into a data mining problem?
+
+By using big data, the butcher gains insights into new data from his store. The supermarket will provide more passers-by than without a supermarket. As a result, there are more potential buyers than before. By installing cameras, it is possible to see exactly how many people pass through his shop every day and at what times.
+
+
+## What is the realized business value?
+More targeted advertising can be made to customers. For example, the time of year can be anticipated and the effect of certain actions can be measured. The butcher can use these insights in subsequent actions in order to have strong marketing.
+## Sources
